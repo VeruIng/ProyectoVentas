@@ -23,26 +23,6 @@ Funciones principales
 
 ---
 
-Estructura del proyecto
-```
-ProyectoVentas/
-│
-├── src/
-│   └── com.ventas/
-│       ├── Main.java
-│       ├── GenerateInfoFiles.java
-│       └── module-info.java
-│
-├── productos.txt
-├── vendedores.txt
-├── ventas_XXXX.txt
-├── reporte_vendedores.txt
-├── reporte_productos.txt
-└── README.md
-```
-
----
-
 ##  Avances logrados en la tercera entrega
 - Se implementaron métodos separados para cada proceso (lectura, validación, cálculo y generación de reportes).  
 - Se añadieron validaciones para evitar errores de formato y datos faltantes.  
