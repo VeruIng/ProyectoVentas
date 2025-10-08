@@ -38,10 +38,12 @@ Funciones principales
 
 ---
 
-## 🧩 Integrantes del grupo
-- **Veruzka Aguas Castelar**  
-- **Mayerli Agudelo Monje**
-- **Lina Marcela Pérez Murcia**
+##    INTEGRANTES:
+VERUSKA AGUAS CASTELAR
+LINA MARCELA PEREZ MURCIA
+DIEGO MAURICIO MARTINEZ VEJA
+MAYERLI AGUDELO MONJE
+JUAN CARLOS PEÑA CASTRO
 
 ##  Evidencias
 El programa genera en consola mensajes de verificación, como:
